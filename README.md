@@ -9,11 +9,12 @@ Here are a few things about me before getting you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiah1122&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhiah1122&theme=onedark)](https://github.com/Dhiah1122/github-profile-trophy)
 ---
 ### 💻 What I work on:
 - 🖥️ **Backend Development**: APIs, services, and business logic with Symfony.
-- 🛠️ **Frontend Integration**: Using Twig, JavaScript (React/TypeScript), and modern CSS techniques.
-- 📦 **Database Design**: Expertise with MySQL, PostgreSQL, and Doctrine ORM.
+- 🛠️ **Frontend Integration**: Using Twig, JavaScript (Angular/TypeScript), and modern CSS techniques.
+- 📦 **Database Design**: Expertise with MySQL and Doctrine ORM.
 - ⚙️ **DevOps**: Deployment with Docker, CI/CD pipelines, and server configurations.
 
 ---
@@ -34,7 +35,6 @@ Here are some of the projects I've worked on:
 1. **E-commerce Platform**: A scalable online store built with Symfony and integrated with payment gateways.
 2. **RESTful API**: Developed a secure API for a mobile application with JWT authentication.
 3. **Admin Dashboard**: Created a customizable admin interface using EasyAdmin and Twig.
-
 ---
 ### 📈 GitHub Stats:
 ![Dhiah1122's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhiah1122&show_icons=true&theme=radical)
