@@ -23,7 +23,13 @@ I'm a **Symfony Developer** passionate about creating high-quality web applicati
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-
+----
+  ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square)
+  ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
+  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
+  ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=flat-square)
+  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-green?logo=springboot&logoColor=white&style=flat-square)
+  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-red?logo=raspberrypi&logoColor=white&style=flat-square)
 ---
 
 ### 🌟 Projects:
