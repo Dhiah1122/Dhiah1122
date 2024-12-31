@@ -5,6 +5,7 @@
 I'm a **Symfony Developer** passionate about creating high-quality web applications. With a focus on scalable and maintainable code, I specialize in building solutions using **PHP** and the **Symfony Framework**.
 
 ---
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiah1122&layout=compact&theme=radical)
 
 ### 💻 What I work on:
 - 🖥️ **Backend Development**: APIs, services, and business logic with Symfony.
